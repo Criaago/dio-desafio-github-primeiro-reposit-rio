@@ -1,0 +1,7 @@
+# Anotações importantes
+
+## Nunca se esqueça
+
+### Após mudar um arquivo faça um commit, depois faça um push
+Porém, antes você faz um git add . ou um git add -a para adicionar
+todos os arquivos 
